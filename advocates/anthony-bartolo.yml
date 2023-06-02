@@ -2,39 +2,44 @@
 uid: advocates.anthony-bartolo
 name: Anthony Bartolo
 metadata:
-  title: Anthony Bartolo - Sr. Cloud Advocate
-  description: Home page for Anthony Bartolo, a Microsoft Sr. Cloud Advocate
+  title: Anthony Bartolo - Principal Cloud Advocate
+  description: Home page for Anthony Bartolo, a Microsoft Principal Cloud Advocate
   ms.author: abartolo
   team: modinfra
 remarks: |
   ## Bio
-  As a Sr. Cloud Advocate for Microsoft, Anthony Bartolo takes great pride in architecting and conducting “science experiments” that incorporate Microsoft technology and services to address a customer problem or opportunity. Anthony accomplishes this by conducting hackathons with industry leading organizations to test theories and create Proof of Concepts (PoC) utilizing Microsoft cloud services. Some of the more interesting Proof of Concepts completed have included teaching drones to identify objects to aid in search and rescue efforts and automating research via Azure Functions to extract information from social media to aid law enforcement in finding children reported missing. Results and best practices of these and other projects are then shared openly with the community at large to help upskill everyone.
+  As a Principal Cloud Advocate for Microsoft, Anthony Bartolo takes great pride in architecting and conducting “science experiments” that incorporate Microsoft technology and services to address a customer problem or opportunity. Anthony accomplishes this by conducting hackathons with industry leading organizations to test theories and create Proof of Concepts (PoC) utilizing Microsoft cloud services. Some of the more interesting Proof of Concepts completed have included teaching drones to identify objects to aid in search and rescue efforts and automating research via Azure Functions to extract information from social media to aid law enforcement in finding children reported missing. Results and best practices of these and other projects are then shared openly with the community at large to help upskill everyone.
 
   Anthony regularly conducts conversations on Twitter [@WirelessLife](https://www.twitter.com/wirelesslife) and regularly submits blog content to https://www.ITOpsTalk.com
 
   ## Skills
-  * Infrastructure
-  * IoT
+  * Artificial Intelligence (AI)
+  * Cognitive Services
+  * Developer Tools
   * Identity Management
+  * Infrastructure  
+  * IoT  
   * Security
 
 
   ## My projects
-  * [Missing Children Project](https://blogs.technet.microsoft.com/canitpro/2016/12/12/cloud4good-building-a-child-finder-bot-to-aid-missing-children-society-of-canada/)
-  * [Drone Search and Rescue](https://blogs.technet.microsoft.com/canitpro/2017/05/10/teaching-drones-to-aid-search-and-rescue-efforts-via-cognitive-services/)
-  * [RaspberryPi Mousetrap Project](https://channel9.msdn.com/Series/Hack-Your-World/Hack-a-Mousetrap-with-Windows-10-Internet-Of-Things/?WT.mc_id=blog-twitter-abartolo)
-  * [AI Nurse - Senior Assisted Living](https://customers.microsoft.com/en-gb/story/homeexcept-azure-iot-canada)
+  * [Missing Children Project](https://news.microsoft.com/en-ca/2021/09/08/real-ai-is-protecting-our-children/)
+  * [Drone Search and Rescue](https://techcommunity.microsoft.com/t5/itops-talk-blog/applying-ai-to-save-lives-how-a-team-at-microsoft-made-drones/ba-p/1292993)
+  * [RaspberryPi Mousetrap Project](https://github.com/WirelessLife/MouseTrap)
+  * [AI Nurse - Senior Assisted Living](https://www.microsoft.com/en-ca/industry/blog/retail/2018/11/16/collaborating-in-the-age-of-iot/)
 
-tagline: Infrastructure / IoT / Identity Management / Security
+tagline: Artificial Intelligence (AI) / Cognitive Services / Developer Tools / Infrastructure / Identity Management / IoT / Security
 image:
-  alt: "Anthony Bartolo Sr. Cloud Advocate"
+  alt: "Anthony Bartolo Principal Cloud Advocate"
   src: media/profiles/anthony-bartolo.png
 connect:
   - title: Twitter
     url: https://twitter.com/wirelesslife
   - title: GitHub
     url: https://github.com/wirelesslife
-  - title: Blog
+  - title: Blog - Rising Developers
+    url: https://aka.ms/RisingDevs
+  - title: Blog - IT
     url: https://itopstalk.com/
   - title: LinkedIn
     url: https://www.linkedin.com/in/wirelesslife/
